@@ -6,7 +6,7 @@
 
 ## Usage
 
-    meteor add kevohagan:sweetalert
+    meteor add dfs:sweetalert
 
 Then, run
 
